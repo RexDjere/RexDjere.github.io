@@ -1,8 +1,8 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-08-18T13:06:25-04:00
+Creation-Date: 2018-08-18T13:06:51-04:00
 
-====== obj0000 Introduce the new player or saxophone enthusiast to basic concepts of the instruments. ======
+====== obj0006 Discuss keys - F♯minor-Amajor. ======
 Created Saturday 18 August 2018
 
 **Template Revision: **__Saturday 08/18/18 12:49:39 PM__

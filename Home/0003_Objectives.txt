@@ -11,7 +11,7 @@ Created Saturday 18 August 2018
 [[Home]]
 [[0001 Templates]]
 [[0003 Objectives]]
-[[0004 Useful Symbols]]
+0004 Useful Symbols
 
 **KYWRD: **objectives
 **Objective: **N/A

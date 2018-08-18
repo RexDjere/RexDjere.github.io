@@ -11,7 +11,7 @@ Created Saturday 18 August 2018
 --------------------
 
 **Summary:**
-This is the homepage for Saxtalk, a website dedicated to the best musical instrument ever created, the saxophone. Saxtalk was created using [[http://www.zim-wiki.org/|Zim]], a [[https://www.fsf.org/about/what-is-free-software|free software]] desktop wiki program. TEST
+This is the homepage for Saxtalk, a website dedicated to the best musical instrument ever created, the saxophone. Saxtalk was created using [[http://www.zim-wiki.org/|Zim]], a [[https://www.fsf.org/about/what-is-free-software|free software]] desktop wiki program.
 
 **Salktalk:**
 * [[+0000 Purpose]]

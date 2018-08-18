@@ -1,0 +1,51 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-18T12:17:38-04:00
+
+====== 0002 Objectives ======
+Created Saturday 18 August 2018
+
+**Template Revision: **__Saturday 08/18/18 12:49:39 PM__
+**Generate Page Revision command (Linux): **date '+%A %D %X' 
+
+[[Home]]
+[[0001 Templates]]
+[[0003 Objectives]]
+[[0004 Useful Symbols]]
+
+**KYWRD: **objectives
+**Objective: **N/A
+
+**Summary**
+This page lists all of the objectives that Saxtalk will meet.
+
+
+**Objectives:**
+* [[+obj0000 Introduce the new player or saxophone enthusiast to basic concepts of the instruments.]]
+* [[+obj0001 Discuss the history of the saxophone.]]
+* [[+obj0002 Discuss saxophone hardware.]]
+* [[+obj0003 Discuss playing saxophone music in the key of A minorC major.]]
+* [[+obj0004 Discuss playing saxophone music in the key of E minorG major.]]
+* [[+obj0005 Discuss playing saxophone music in the key of B minorD major.]]
+* [[+obj0006 Discuss playing saxophone music in the key of F minorA major.]]
+* [[+obj0007 Discuss playing saxophone music in the key of C minorE major.]]
+* [[+obj0008 Discuss playing saxophone music in the key of G minorB major.]]
+* [[+obj0009 Discuss playing saxophone music in the key of D minorF major.]]
+* [[+obj0010 Discuss playing saxophone music in the key of A minorC major.]]
+* [[+obj0011 Discuss playing saxophone music in the key of F minorA♭ major.]]
+* [[+obj0012 Discuss playing saxohone music in the key of C minorE♭ major.]]
+* [[+obj0013 Discuss playing saxophone music in the key of G minorB♭ major.]]
+* [[+obj0014 Discuss playing saxophone music in the key of D minorF major.]]
+* [[+obj0015 Discuss open source software that is helpful in making saxophone musicexercises.]]
+
+**Deep Dive**
+N/A
+
+**Examples**
+* N/A
+
+**Relevent Links:**
+* N/A
+
+**Relevant screenshots**
+N/A

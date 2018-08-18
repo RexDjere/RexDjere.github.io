@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-18T12:11:19-04:00
+
+====== 0001 Templates ======
+Created Saturday 18 August 2018
+
+Templates:
+* [[+generic page template]]

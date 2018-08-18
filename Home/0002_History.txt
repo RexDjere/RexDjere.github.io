@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-18T12:44:09-04:00
+
+====== 0002 History ======
+Created Saturday 18 August 2018
+
+**Template Revision: **__Saturday 08/18/18 12:49:39 PM__
+**Generate Page Revision command (Linux): **date '+%A %D %X' 
+
+[[Home]]
+[[0001 Templates]]
+[[0003 Objectives]]
+[[0004 Useful Symbols]]
+
+**KYWRD: **history
+**Objective: **obj0001 Discuss the history of the saxophone.
+
+**Summary**
+The saxophone was invented by a Belgian instrument maker named Adolphe Sax in 1840.
+
+**Deep Dive**
+Adolphe Sax's goal was to create an instrument that had the tonal beauty of the woodwind instruments, and the power of the brass instruments.
+
+**KEYWORD Examples:**
+* N/A
+
+**Relevent Links:**
+* https://en.wikipedia.org/wiki/Saxophone
+
+**KEYWORD relevant screenshots:**
+N/A

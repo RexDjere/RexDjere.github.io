@@ -1,8 +1,8 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-08-18T12:12:00-04:00
+Creation-Date: 2018-08-18T13:06:37-04:00
 
-====== generic page template ======
+====== obj0002 Discuss saxophone hardware. ======
 Created Saturday 18 August 2018
 
 **Template Revision: **__Saturday 08/18/18 12:49:39 PM__
@@ -10,7 +10,7 @@ Created Saturday 18 August 2018
 
 [[Home]]
 [[0001 Templates]]
-[[0002 Objectives]]
+0003 Objectives
 [[0003 Useful Items]]
 revelevant backlink1
 relevant backlink2
@@ -35,4 +35,3 @@ Go into more detail here.
 * KEYWORD link 3
 
 **KEYWORD relevant screenshots:**
-

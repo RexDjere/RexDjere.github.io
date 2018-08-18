@@ -10,8 +10,8 @@ Created Saturday 18 August 2018
 
 [[Home]]
 [[0001 Templates]]
-[[0003 Objectives]]
-[[0004 Useful Symbols]]
+[[0002 Objectives]]
+[[0003 Useful Items]]
 
 **KYWRD: **purpose
 **Objective: **obj0000 Introduce the saxophone.

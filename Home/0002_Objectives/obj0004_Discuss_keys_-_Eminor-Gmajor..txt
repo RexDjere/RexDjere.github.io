@@ -5,15 +5,13 @@ Creation-Date: 2018-08-18T13:06:43-04:00
 ====== obj0004 Discuss keys - Eminor-Gmajor. ======
 Created Saturday 18 August 2018
 
-**Template Revision: **__Saturday 08/18/18 12:49:39 PM__
+[[Home:0001 Templates:generic page template|Generic Template]]** Revision: **__Saturday 08/18/18 12:49:39 PM__
 **Generate Page Revision command (Linux): **date '+%A %D %X' 
 
 [[Home]]
 [[0001 Templates]]
-0003 Objectives
+[[0002 Objectives]]
 [[0003 Useful Items]]
-revelevant backlink1
-relevant backlink2
 
 **KYWRD: **Type the relevant kywrd here.
 **Objective: **Type the [[0002 Objectives|objective]] that this page meets here.

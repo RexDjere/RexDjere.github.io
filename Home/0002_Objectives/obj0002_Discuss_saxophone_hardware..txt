@@ -5,33 +5,30 @@ Creation-Date: 2018-08-18T13:06:37-04:00
 ====== obj0002 Discuss saxophone hardware. ======
 Created Saturday 18 August 2018
 
-**Template Revision: **__Saturday 08/18/18 12:49:39 PM__
+[[Home:0001 Templates:generic page template|Generic Template]]** Revision: **__Saturday 08/18/18 12:49:39 PM__
 **Generate Page Revision command (Linux): **date '+%A %D %X' 
 
 [[Home]]
 [[0001 Templates]]
-0003 Objectives
+[[0002 Objectives]]
 [[0003 Useful Items]]
-revelevant backlink1
-relevant backlink2
 
-**KYWRD: **Type the relevant kywrd here.
-**Objective: **Type the [[0002 Objectives|objective]] that this page meets here.
+**KYWRD: **hardware
+**Objective: **obj0002 Discuss saxophone hardware.
 
 **Summary**
-Concisely summarize the whole page here. Find and replace KEYWORD with the actual KYWRD from above.
+The choice saxophone hardware is a deeply personal one. My advise: make your choice and stick with it. 
 
 **Deep Dive**
-Go into more detail here.
+I play a Selmer Referene 54 alto sax with a Yanagisawa 5 metal mouthpiece, and #4 Fibracell reeds. I don't change my setup at all because changes introduce uncertainty, and uncertainty is the enemy of progress. 
 
-**KEYWORD Examples:**
-* KEYWORD example 1: Build example 1 based on this template. Describe example 1 here.
-* KEYWORD example 2: Build example 2 based on this template. Describe example 2 here.
-* KEYWORD example 3: Build example 3 based on this template. Describe example 3 here.
+I also play a Roland AE-10 digital wind instrument. This allows my to practice silently.
 
-**KEYWORD Relevant Links:**
-* KEYWORD link 1
-* KEYWORD link 2
-* KEYWORD link 3
+**hardware Examples:**
+* N/A
 
-**KEYWORD relevant screenshots:**
+**hardware Relevant Links:**
+* N/A
+
+**hardware relevant screenshots:**
+N/A

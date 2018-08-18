@@ -5,5 +5,13 @@ Creation-Date: 2018-08-18T12:11:19-04:00
 ====== 0001 Templates ======
 Created Saturday 18 August 2018
 
+**Template Revision: **__Saturday 08/18/18 12:49:39 PM__
+**Generate Page Revision command (Linux): **date '+%A %D %X' 
+
+[[Home]]
+[[0001 Templates]]
+[[0002 Objectives]]
+[[0003 Useful Items]]
+
 Templates:
 * [[+generic page template]]

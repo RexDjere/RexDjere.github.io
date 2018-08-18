@@ -14,7 +14,7 @@ Created Saturday 18 August 2018
 [[0004 Useful Symbols]]
 
 **KYWRD: **history
-**Objective: **obj0001 Discuss the history of the saxophone.
+**Objective: **obj0001 Discuss saxophone history.
 
 **Summary**
 The saxophone was invented by a Belgian instrument maker named Adolphe Sax in 1840.

@@ -14,7 +14,7 @@ Created Saturday 18 August 2018
 [[0004 Useful Symbols]]
 
 **KYWRD: **purpose
-**Objective: **obj0000 Introduce the new player, or saxophone enthusiast, to basic concepts of the saxophone.
+**Objective: **obj0000 Introduce the saxophone.
 
 **Summary**
 I have two passions: the saxophone, and Linux.  In my opinion, the saxophone is the most beautiful, and most expressive, instrument ever created.  The purpose of Saxtalk is to spread my love of the instrument.

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-29T14:10:36-05:00
+
+====== printable version ======
+Created Sunday 29 December 2019
+
+{{~/Desktop/west_huron_drive_etude00001-1.svg?width=1500}}

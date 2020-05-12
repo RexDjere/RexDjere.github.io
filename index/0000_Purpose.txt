@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-18T12:07:02-04:00
+
+====== 0000 Purpose ======
+Created Saturday 18 August 2018
+
+[[Home:0001 Templates:generic page template|Generic Template]]** Revision: **__Saturday 08/18/18 12:49:39 PM__
+**Generate Page Revision command (Linux): **date '+%A %D %X' 
+
+[[Home]]
+[[0001 Templates]]
+[[0002 Objectives]]
+[[0003 Useful Items]]
+
+**KYWRD: **purpose
+**Objective: **obj0000 Introduce the saxophone.
+
+**Summary**
+I have two passions: the saxophone, and Linux.  In my opinion, the saxophone is the most beautiful, and most expressive, instrument ever created.  The purpose of Saxtalk is to spread my love of the instrument.
+
+**Deep Dive**
+I started playing the saxophone during the 1980s, and recently started getting back into it with the same ferocity that I had during the 1990s and 2000s. I have found that the best way to learn is to teach. Using Saxtalk, I will share the methods that I use to imrove my mastery of the saxophone. I believe in picking one thing, and focusing intensely. If I try to learn 2 instruments, my time is divided. So my focus is to master the alto saxophone. Specifically, I want to master MY specific alto saxophone. In studying all of the great saxophonists, I have found several things to be true:
+* they generally don't double on intruments: their chosen saxophone gets 100% of their attention.
+* they play the same saxophone for decades, so they know that particular horn inside and out.
+
+
+**purpose Examples:**
+* N/A
+
+**Relevent Links:**
+* N/A
+
+**purpose relevant screenshots:**
+N/A
+

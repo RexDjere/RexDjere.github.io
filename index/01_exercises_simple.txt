@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-09T20:37:30-04:00
+
+====== 01 exercises simple ======
+Created Saturday 09 May 2020
+
+[[index]]
+--------------------
+
+[[+exercise simple 00000001]]
+
+--------------------
+

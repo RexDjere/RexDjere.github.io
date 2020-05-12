@@ -2,19 +2,35 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-08-18T02:47:58-04:00
 
-====== Home ======
-Created Saturday 18 August 2018
-
---------------------
-
 ====== Saxtalk ======
+ 
 --------------------
 
-**Summary:**
-This is the homepage for Saxtalk, a website dedicated to the best musical instrument ever created, the saxophone. Saxtalk was created using [[http://www.zim-wiki.org/|Zim]], a [[https://www.fsf.org/about/what-is-free-software|free software]] desktop wiki program.
+**About Saxtalk:**
+Saxtalk.com is dedicated to  mastering the saxophone. 
+We start with simple exercises and songs, and progressively move through more difficult exercises and songs.
 
-**Salktalk:**
-* [[+0000 Purpose]]
-* [[+0001 Templates]]
-* [[+0002 Objectives]]
-* [[+0003 Useful Items]]
+--------------------
+
+**Exercises:**
+[[+01 exercises simple]]
+[[+02 exercises medium]]
+[[+03 exercises advanced]]
+
+--------------------
+
+**Songs:**
+[[+01 songs simple]]
+[[+02 songs medium]]
+[[+03 songs advanced]]
+
+--------------------
+
+**Saxtalk.com Copyright and Licensing:**
+All  exercises and songs are copyright Rex Djere.
+All exercises and songs are licensed under GNU GPL version 3 or later:
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+--------------------
+
+

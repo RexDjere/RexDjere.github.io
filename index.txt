@@ -20,9 +20,9 @@ We start with simple exercises and songs, and progressively move through more di
 --------------------
 
 **Songs:**
-[[+01 songs simple]]
-[[+02 songs medium]]
-[[+03 songs advanced]]
+[[+04 songs simple]]
+[[+05 songs medium]]
+[[+06 songs advanced]]
 
 --------------------
 
